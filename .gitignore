@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.joblib
+*.pkl
+*.sqlite
+*.db
+.env
+.venv
+venv/
+env/
+
+# Node / Frontend
+node_modules/
+dist/
+.cache/
+*.local
+
+# Vite
+frontend/dist/
+frontend/.vite/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+Desktop.ini
